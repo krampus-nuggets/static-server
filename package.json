@@ -1,0 +1,9 @@
+{
+  "name": "static-server",
+  "dependencies": {
+    "serve": "^11.3.0"
+  },
+  "scripts": {
+    "example": "serve example/"
+  }
+}
